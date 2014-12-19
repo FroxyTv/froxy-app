@@ -1,4 +1,4 @@
-VortxExtension
+Froxy TV
 ==============
 
-Work In Progress
+Work In Progress :)
