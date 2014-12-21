@@ -1,5 +1,4 @@
 # Froxy TV
-==============
 
 ### Getting Started
 
