@@ -1,4 +1,6 @@
-Froxy TV
+# Froxy TV
 ==============
 
-Work In Progress :)
+### Getting Started
+
+Install it :)
